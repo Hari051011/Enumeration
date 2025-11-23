@@ -59,12 +59,31 @@ Check all NS records for zone transfers
 Enumerate general DNS records for a given domain (MX, SOA, NS, A, AAAA, SPF , TXT)
 Perform common SRV Record Enumeration
 Top level domain expansion
-## OUTPUT:
+#  OUTPUT:
+![alt text](image.png)
+
+![alt text](image-1.png)
+
+![alt text](image-2.png)
 
 
+![alt text](image-3.png)
+
+![alt text](image-4.png)
 
 
+![alt text](image-5.png)
 
+
+![alt text](image-6.png)
+
+![alt text](image-7.png)
+![alt text](image-8.png)
+
+
+![alt text](image-9.png)
+
+![alt text](image-10.png)
 
 
 ##dnsenum
@@ -95,8 +114,6 @@ select any username in the first column of the above file and check the same
 Telnet allows to connect to remote host based on the port no. For smtp port no is 25
 telnet <host address> 25 to connect
 and issue appropriate commands
-  
- ##Output
   
   
 
